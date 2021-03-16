@@ -3,5 +3,5 @@
 env/
 .vscode/
 !important.txt
-logs/
-site.db
+logs/*.log
+app.db
