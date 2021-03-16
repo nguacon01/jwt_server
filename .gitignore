@@ -1,0 +1,7 @@
+*__pycache__*
+*.pyc
+env/
+.vscode/
+!important.txt
+logs/
+site.db
